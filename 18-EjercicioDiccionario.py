@@ -28,3 +28,4 @@ area_dep = prueba_deportiva["Area"][1]
 
 print(f"Esta es la prueba de Julian: {puntaje["Julian"]}")
 print(f"El Area deportiva es: {area_dep}")
+print(f"{mi_dic['nombre']}")
